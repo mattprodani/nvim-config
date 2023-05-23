@@ -1,0 +1,1 @@
+require('lervag/vimtex').setup()
