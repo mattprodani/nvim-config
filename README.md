@@ -2,6 +2,9 @@
 
 ## Installation
 
+```
+git clone https://github.com/mattprodani/nvim-config.git ~/.config/nvim
+```
 
 
 
@@ -37,9 +40,6 @@ Additional system requirements:
 - See as well [Windows Installation](#Windows-Installation)
 
 ### Configuration And Extension
-```
-git clone https://github.com/mattprodani/nvim-config.git ~/.config/nvim
-```
 
 * Inside of your fork, feel free to modify any file you like! It's your fork!
 * Then there are two primary configuration options available:
